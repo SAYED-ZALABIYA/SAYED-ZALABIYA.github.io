@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Crop Selection Using Machine Learning for Sustainable Agriculture in Egypt"
-collection:Publications
+collection: Publications
 permalink: /publication/2025-06-01-crop-selection-egypt
 excerpt: 'A Random Forest-based crop recommendation system for Egyptian agriculture, benchmarked against Decision Tree, SVM, and Linear Regression, reaching a perfect F1-score with SHAP-based interpretability.'
 date: 2025-06-01
