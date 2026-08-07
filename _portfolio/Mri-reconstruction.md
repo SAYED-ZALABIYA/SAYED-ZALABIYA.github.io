@@ -4,7 +4,12 @@ excerpt: "Diffusion-aware generator + unrolled ADMM refinement for accelerated M
 collection: portfolio
 ---
 
-**Stack:** PyTorch · fastMRI multi-coil brain dataset · Google Colab (A100) · explicit MRI forward/adjoint operators
+**Stack:** 
+* PyTorch
+* fastMRI
+*  multi-coil brain dataset
+*  Google Colab (A100)
+*  explicit MRI forward/adjoint operators
 
 This is the engineering side of the [Physics-Informed MRI Reconstruction](/publications/) paper — the actual pipeline I built and iterated on before it became a co-authored write-up.
 
@@ -18,4 +23,4 @@ This is the engineering side of the [Physics-Informed MRI Reconstruction](/publi
 
 **Honest scope:** trained on a reduced 50/30-file subset due to compute limits; still well below SOTA methods like VarNet. I consider this a working, interpretable prototype, not a leaderboard entry — see the [write-up](/publications/) for the full ablation table and limitations.
 
-[Code on GitHub](#) · [Full paper](/publications/)
+[Code on GitHub](https://github.com/SAYED-ZALABIYA/ICDDGAN-Unrolled-ADMM-MRI-Reconstruction) ·
