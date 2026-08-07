@@ -5,7 +5,7 @@ permalink: /publication/2025-06-01-crop-selection-egypt
 excerpt: 'A Random Forest-based crop recommendation system for Egyptian agriculture, benchmarked against Decision Tree, SVM, and Linear Regression, reaching a perfect F1-score with SHAP-based interpretability.'
 date: 2025-06-01
 venue: 'EKB Journal (co-authored)'
-paperurl: 'http://SAYED-ZALABIYA.github.io/files/crop-selection-egypt.pdf'
+paperurl: 'https://journals.ekb.eg/article_431307.html'
 citation: 'Hussein, M. A., Mohammed, E. A., &amp; Mahfouz, A. (2025). &quot;Optimizing Crop Selection Using Machine Learning for Sustainable Agriculture in Egypt.&quot; <i>EKB Journal</i>.'
 ---
 
