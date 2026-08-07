@@ -15,7 +15,7 @@ repository               : "SAYED-ZALABIYA/SAYED-ZALABIYA.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image.jpeg"
   name             : "ElSayed A. Mohammed"
   pronouns         : # example: "she/her"  
   bio              : "Independent AI & Machine Learning Researcher — deep learning, information theory, and physics-guided ML systems."
