@@ -71,20 +71,28 @@ Technical Skills
   * SMOTE, Label Encoding, Imputation, Scaling, Normalization
   * GridSearchCV, Feature Engineering, Exploratory Data Analysis
   * Model Evaluation: Accuracy, Precision, Recall, F1-score  
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Certifications
 ======
-* **IBM:** RAG and Agentic AI · Fundamentals of AI Agents Using RAG and LangChain · Generative AI Engineering and Fine-Tuning Transformers · Generative AI Advanced Fine-Tuning for LLMs · Supervised ML (Classification & Regression) · Unsupervised ML
-* **Stanford Online:** Supervised Machine Learning (Regression and Classification)
-* **DeepLearning.AI:** Neural Networks and Deep Learning
-* **Google Cloud:** Production ML Systems
-* **AWS:** ML Engineer Associate
-* Linear Algebra & Calculus for ML · Responsible AI · Generative AI Learning Path · Foundations of Prompt Engineering
+* **IBM:**
+  * RAG and Agentic AI
+  * Fundamentals of AI Agents Using RAG and LangChain
+  * Generative AI Engineering and Fine-Tuning Transformers
+  * Generative AI Advanced Fine-Tuning for LLMs
+  * Supervised ML (Classification & Regression)
+  * Unsupervised ML
+* **Stanford Online:**
+  * Supervised Machine Learning (Regression and Classification)
+* **DeepLearning.AI:**
+  * Neural Networks and Deep Learning
+* **Google Cloud:**
+  * Production ML Systems
+* **AWS:**
+  * ML Engineer Associate
+* Linear Algebra & Calculus for ML
+* Responsible AI
+* Generative AI Learning Path
+* Foundations of Prompt Engineering
 
 Languages
 ======
