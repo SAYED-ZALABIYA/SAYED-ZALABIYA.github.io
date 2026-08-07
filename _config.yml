@@ -1,11 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
@@ -66,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/elsayed-a-mohammed-56a669237/"
+  linkedin         : "https://www.linkedin.com/in/elsayed-a-mohammed-56a669237"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,7 +66,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/el_sayed_nassar?s=11" # Username for X / Twitter
+  twitter          : "https://x.com/el_sayed_nassar?s=11"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
