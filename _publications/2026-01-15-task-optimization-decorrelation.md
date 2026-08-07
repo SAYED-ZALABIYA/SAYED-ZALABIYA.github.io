@@ -24,6 +24,5 @@ Integrated Information Theory (IIT) posits that consciousness relates to a syste
 
 This independent research was endorsed by Dr. Pedro Mediano (Imperial College London), a leading researcher in IIT and information dynamics.
 
-[Download paper here](http://SAYED-ZALABIYA.github.io/files/task-optimization-decorrelation.pdf)
 
 Recommended citation: Mohammed, E. A. (2026). "Task Optimization Drives Statistical Decorrelation: An Empirical Study of Integration Dynamics in Feed-Forward and Recurrent Neural Networks." Zenodo Preprint.
