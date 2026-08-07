@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Crop Selection Using Machine Learning for Sustainable Agriculture in Egypt"
-collection: Publications
+collection: publications
 permalink: /publication/2025-06-01-crop-selection-egypt
 excerpt: 'A Random Forest-based crop recommendation system for Egyptian agriculture, benchmarked against Decision Tree, SVM, and Linear Regression, reaching a perfect F1-score with SHAP-based interpretability.'
 date: 2025-06-01
@@ -34,6 +34,5 @@ The Random Forest model — 50 estimators, no max depth, tuned via GridSearchCV 
 
 **Practical implication.** The model is proposed as a decision-support tool for farmers and agricultural engineers, with future work aimed at real-time IoT sensor integration and multi-seasonal, multi-regional data.
 
-[Download paper here](http://SAYED-ZALABIYA.github.io/files/crop-selection-egypt.pdf)
 
 Recommended citation: Hussein, M. A., Mohammed, E. A., & Mahfouz, A. (2025). "Optimizing Crop Selection Using Machine Learning for Sustainable Agriculture in Egypt." EKB Journal.
