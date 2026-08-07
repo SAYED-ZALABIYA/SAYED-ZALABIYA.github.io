@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "How I Work"
+title: ""
 author_profile: true
 ---
 
