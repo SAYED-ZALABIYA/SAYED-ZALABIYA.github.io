@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Task Optimization Drives Statistical Decorrelation: An Empirical Study of Integration Dynamics in Feed-Forward and Recurrent Neural Networks"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
