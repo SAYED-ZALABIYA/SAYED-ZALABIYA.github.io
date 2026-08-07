@@ -7,13 +7,13 @@ redirect_from:
   - /resume
 ---
 
+
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **B.Sc. Computer Science** (El Shorouk Academy)
+  * Focus: Computer Science / Engineering / Mathematics
 
 Work experience
 ======
@@ -32,12 +32,12 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Technical Skills
 ======
 * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* Programming Languages:
+  * Python
+  * SQL
   * Sub-skill 2.3
 * Skill 3
 
