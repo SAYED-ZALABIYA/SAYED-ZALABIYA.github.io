@@ -1,6 +1,6 @@
 ---
 title: "Physics-Guided MRI Reconstruction Pipeline"
-excerpt: "Diffusion-aware generator + unrolled ADMM refinement for accelerated MRI reconstruction, built and evaluated end-to-end on the fastMRI multi-coil dataset.<br/><img src='/images/mri-portfolio.png'>"
+excerpt: "Diffusion-aware generator + unrolled ADMM refinement for accelerated MRI reconstruction, built and evaluated end-to-end on the fastMRI multi-coil dataset.<br/><img src='/images/admm_mri_reconstruction_flowchart.png'>"
 collection: portfolio
 ---
 
