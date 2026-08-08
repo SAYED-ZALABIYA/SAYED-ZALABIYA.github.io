@@ -1,6 +1,6 @@
 ---
 title: "Crop Recommendation System for Egyptian Agriculture"
-excerpt: "A tuned Random Forest pipeline that recommends crops from soil and climate data, benchmarked against three baseline models with SHAP-based interpretability.<br/><img src='/images/crop-portfolio.png'>"
+excerpt: "A tuned Random Forest pipeline that recommends crops from soil and climate data, benchmarked against three baseline models with SHAP-based interpretability.<br/><img src='/images/Screenshot 2025-03-17 000232.png'>"
 collection: portfolio
 ---
 
