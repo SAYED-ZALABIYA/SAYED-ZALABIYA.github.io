@@ -1,6 +1,6 @@
 ---
 title: "Total Correlation Dynamics Toolkit"
-excerpt: "A training-and-measurement harness that tracks Gaussian Total Correlation alongside accuracy, epoch by epoch, across MLP and RNN architectures — the codebase behind the decorrelation study.<br/><img src='/images/decorrelation-portfolio.png'>"
+excerpt: "A training-and-measurement harness that tracks Gaussian Total Correlation alongside accuracy, epoch by epoch, across MLP and RNN architectures — the codebase behind the decorrelation study.<br/><img src='/images/Figure_1.png'>"
 collection: portfolio
 ---
 
