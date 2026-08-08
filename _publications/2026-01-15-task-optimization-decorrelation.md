@@ -5,7 +5,7 @@ permalink: /publication/2026-01-15-task-optimization-decorrelation
 excerpt: 'An empirical study tracking Gaussian Total Correlation (a statistical proxy for IIT''s Φ) during training of MLPs and RNNs, finding a consistent inverse relationship between task accuracy and internal statistical integration.'
 date: 2026-01-15
 venue: 'Zenodo (Preprint)'
-paperurl: 'http://SAYED-ZALABIYA.github.io/files/task-optimization-decorrelation.pdf'
+paperurl: 'https://zenodo.org/records/20500251'
 citation: 'Mohammed, E. A. (2026). &quot;Task Optimization Drives Statistical Decorrelation: An Empirical Study of Integration Dynamics in Feed-Forward and Recurrent Neural Networks.&quot; <i>Zenodo Preprint</i>.'
 ---
 
