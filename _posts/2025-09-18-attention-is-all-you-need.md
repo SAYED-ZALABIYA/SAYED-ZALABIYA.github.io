@@ -1,6 +1,6 @@
 ---
 title: 'Why "Attention Is All You Need" Changed Everything in NLP'
-date: 2025-09-18
+date: 2025-10-10
 permalink: /posts/2025/09/attention-is-all-you-need/
 tags:
   - paper-breakdown
@@ -9,7 +9,7 @@ tags:
 excerpt: 'In 2017, the Transformer architecture was introduced — and it became the foundation for today''s LLMs like GPT and LLaMA. A step-by-step breakdown of why self-attention won.'
 ---
 
-*First in an occasional series where I break down foundational ML papers — the ones that quietly became the assumptions everyone builds on. Original thread posted on [LinkedIn](https://www.linkedin.com/posts/elsayed-a-mohammed-56a669237_why-attention-is-all-you-need-changed-everything-activity-7374239884183625728-GQ5l?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsCHeIBN5l8lvtkckOBqZXy-qoR1x7AzYo).*
+*First in an occasional series where I break down foundational ML papers. Original thread posted on [LinkedIn](https://www.linkedin.com/posts/elsayed-a-mohammed-56a669237_why-attention-is-all-you-need-changed-everything-activity-7374239884183625728-GQ5l?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsCHeIBN5l8lvtkckOBqZXy-qoR1x7AzYo).*
 
 In 2017, the Transformer architecture was introduced in "Attention Is All You Need," and it became the foundation for essentially every Large Language Model that followed — GPT, LLaMA, and everything downstream of them. Here's why it worked, broken down step by step.
 
