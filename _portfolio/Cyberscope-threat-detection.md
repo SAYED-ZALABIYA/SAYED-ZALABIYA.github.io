@@ -1,6 +1,6 @@
 ---
 title: "CyberScope AI — Real-Time Network Threat Detection"
-excerpt: "An ML system that classifies network attacks (DoS, Probe, and more) in real time, with an interactive Flask/Gradio interface for security analysis workflows.<br/><img src='/images/cyberscope-portfolio.png'>"
+excerpt: "An ML system that classifies network attacks (DoS, Probe, and more) in real time, with an interactive Flask/Gradio interface for security analysis workflows."
 collection: portfolio
 ---
 
