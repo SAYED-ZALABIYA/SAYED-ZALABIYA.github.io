@@ -10,7 +10,7 @@ excerpt: 'Your model isn''t underperforming — you just didn''t tune it yet. A 
 ---
 
 *Part of an ongoing series of practical ML engineering notes — the kind of thing I'd want on hand mid-project, not just in a textbook.*
-*Original thread posted on [LinkedIn](https://www.linkedin.com/posts/elsayed-a-mohammed-56a669237_deep-dive-into-generative-adversarial-networks-ugcPost-7372158104458838017-2-OQ/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADsCHeIBN5l8lvtkckOBqZXy-qoR1x7AzYo).*
+*Original thread posted on [LinkedIn](https://www.linkedin.com/posts/elsayed-a-mohammed-56a669237_your-model-isnt-underperforming-you-just-activity-7354861503591735296-6pqP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADsCHeIBN5l8lvtkckOBqZXy-qoR1x7AzYo).*
 Your model isn't underperforming. You just didn't tune it yet.
 
 You've cleaned your dataset, engineered good features, picked a solid algorithm — and something's still off. Maybe it's underfitting, maybe it's overfitting, maybe it's just "meh." Before you touch the architecture again, the real fix is usually hiding in the hyperparameters.
