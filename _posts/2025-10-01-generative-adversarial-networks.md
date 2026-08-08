@@ -9,7 +9,7 @@ tags:
 excerpt: 'Proposed by Ian Goodfellow in 2014, GANs remain one of the most elegant and influential ideas in deep learning — two networks locked in a minimax game. Here''s how they actually work, and why the lessons still matter in the LLM era.'
 ---
 
-*Part of my occasional series on foundational ML ideas. Note: I'm approximating the original LinkedIn post date here — adjust if you have the exact one.*
+*Part of my occasional series on foundational ML ideas.  Original thread posted on [LinkedIn](https://www.linkedin.com/posts/elsayed-a-mohammed-56a669237_deep-dive-into-generative-adversarial-networks-activity-7372158258368765953-3CX6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADsCHeIBN5l8lvtkckOBqZXy-qoR1x7AzYo).*
 
 Generative Adversarial Networks, proposed by Ian Goodfellow in 2014, remain one of the most elegant and influential ideas in deep learning. At their core, GANs are built on two adversarial models playing against each other:
 
